@@ -30,17 +30,17 @@ a {
 
 /* Layout
 ------------------------------------------------------------*/
-.block-center, section .container, #skills i {
+.block-center, section .container, #contents i {
   display: block;
   margin-left: auto;
   margin-right: auto; }
 
 /* Font
 ------------------------------------------------------------*/
-.abel, section h2, #skills h3, #works .works-box a .works-box-inner .button-readmore {
+.abel, section h2, #contents {
   font-family: 'Abel', sans-serif; }
 
-.uppercase, section h2, #skills h3, #works .works-box a .works-box-inner .button-readmore {
+.uppercase, section h2, #contents {
   text-transform: uppercase; }
 
 /* Header
